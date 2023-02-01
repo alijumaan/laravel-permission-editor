@@ -1,6 +1,6 @@
 # Laravel Permission Editor
 
-This is a package that gives a very simple visual UI for managing roles/permissions for [Spatie Laravel Permission]() package.
+This is a package that gives a very simple visual UI for managing roles/permissions for [Spatie Laravel Permission](https://github.com/spatie/laravel-permission) package.
 
 ## How to Use
 
